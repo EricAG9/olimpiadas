@@ -1,0 +1,29 @@
+/* Estilos para o container azul */
+.blue-container {
+    background-color: #007bff; /* Azul Bootstrap */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50%;
+  }
+  
+  /* Estilos para os campos de entrada */
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos para o botão */
+  .btn-primary {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0056b3; /* Azul escuro */
+    color: #fff;
+    cursor: pointer;
+  }
+  

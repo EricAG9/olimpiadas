@@ -1,0 +1,15 @@
+.home {
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.login {
+    display: flex;
+    position:absolute;
+    right: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #198754;
+}
