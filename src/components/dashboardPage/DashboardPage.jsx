@@ -1,11 +1,15 @@
 import React from 'react';
+import './dashboard.css';
+import Cards from '../cards/Cards';
 
 const DashboardPage = () => {
   return (
-    <div className="container mt-5">
-      <h2>Dashboard</h2>
-      <p>Bem-vindo à página principal!</p>
-    </div>
+    <>
+      <div className="container">
+        <h2>Olimpiadas de Apuiarés</h2>
+      </div>
+        <Cards className='card' />
+    </>
   );
 }
 

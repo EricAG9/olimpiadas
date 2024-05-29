@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.card-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: none;
+    max-width: 50vh;
+    height: 300px;
+}
+
+.card-content {
+    margin: 10px;    
+    max-width: 50vh;
+    
+}
+
+.card-img-top {
+    max-width: 50vh;
+    height: 300px;
+    
+}
