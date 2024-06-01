@@ -8,7 +8,10 @@ const DashboardPage = () => {
       <div className="container">
         <h2>Olimpiadas de Apuiarés</h2>
       </div>
+      <div>
         <Cards className='card' />
+      </div>
+        
     </>
   );
 }
